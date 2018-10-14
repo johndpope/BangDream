@@ -1,0 +1,55 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE 
+#TITLE 
+#ARTIST 
+#BPM 185
+#PLAYLEVEL 1
+#RANK 3
+#STAGEFILE 
+
+#WAV01 short.wav
+#WAV02 bd.wav
+#WAV03 flick.wav
+#WAV06 skill.wav
+#WAV0A bd.wav
+#WAV0B bd.wav
+#WAV0E slide_a.wav
+#WAV0F slide_end_a.wav
+#WAV0G slide_end_flick_a.wav
+#WAV0I slide_b.wav
+#WAV0J slide_end_b.wav
+#WAV0K slide_end_flick_b.wav
+
+
+
+
+
+#BGM bgm001
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:01
+
+
+#00212:0002020202020202
+#00216:06
+
+#00312:000E0000
+#00314:000E
+#00315:0000000E
+#00316:0E
+
+#00414:0006
+#00416:06
+#00418:0F
+
+#00511:06
+#00513:0006
+
+#00613:06
+
